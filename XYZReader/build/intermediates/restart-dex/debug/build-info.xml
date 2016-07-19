@@ -4,66 +4,62 @@
     api-level="22"
     density="hdpi"
     format="7"
-    timestamp="5984081799060"
-    token="-3479306072850855883"
-    verifier="COMPATIBLE" >
+    timestamp="7973049049417"
+    token="-3479306072850855883" >
 
     <task
         name="javac"
-        duration="117" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="600" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="17" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
-        location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="4213800620425" >
+    <build timestamp="7049116254509" >
         <artifact
             location="/home/sachin/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="5182038507076"
-        verifier="CLASS_ADDED" >
+        timestamp="7481981704562"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7568090847290"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
         <artifact
             location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="5890925382319"
+        timestamp="7894869615591"
         verifier="COMPATIBLE" >
         <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5890925382319/classes.dex"
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/7894869615591/classes.dex"
             type="RELOAD_DEX" />
     </build>
-    <build
-        timestamp="5915141821994"
-        verifier="COMPATIBLE" >
+    <build timestamp="7973049049417" >
         <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5915141821994/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="5963456179656"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5963456179656/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="5984081799060"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

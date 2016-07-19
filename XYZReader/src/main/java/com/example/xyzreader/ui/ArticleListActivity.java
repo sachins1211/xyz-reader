@@ -47,11 +47,11 @@ public class ArticleListActivity extends ActionBarActivity implements
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
 
 
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
+       // final View toolbarContainerView = findViewById(R.id.toolbar_container);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
-        mSwipeRefreshLayout.setProgressViewOffset(true, 200, 300);
+        mSwipeRefreshLayout.setProgressViewOffset(true, 100, 200);
         mSwipeRefreshLayout.setColorSchemeColors(Color.BLUE,Color.RED,Color.BLACK);
 
         mSwipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
