@@ -4,26 +4,26 @@
     api-level="22"
     density="hdpi"
     format="7"
-    timestamp="5182038507076"
+    timestamp="5984081799060"
     token="-3479306072850855883"
-    verifier="CLASS_ADDED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1561" />
+        duration="117" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="600" />
     <task
         name="instant-run-transform"
-        duration="126" />
+        duration="17" />
     <task
         name="verifier"
-        duration="24" />
+        duration="1" />
 
     <artifact
-        location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build timestamp="4213800620425" >
         <artifact
@@ -36,6 +36,34 @@
         <artifact
             location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="5890925382319"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5890925382319/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5915141821994"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5915141821994/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5963456179656"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/5963456179656/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5984081799060"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
