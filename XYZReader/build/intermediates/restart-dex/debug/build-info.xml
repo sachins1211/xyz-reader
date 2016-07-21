@@ -4,7 +4,7 @@
     api-level="22"
     density="hdpi"
     format="7"
-    timestamp="7973049049417"
+    timestamp="1170444258753"
     token="-3479306072850855883" >
 
     <task
@@ -24,39 +24,12 @@
         location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="7049116254509" >
+    <build timestamp="513562360400" >
         <artifact
             location="/home/sachin/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="7481981704562"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="7568090847290"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="7894869615591"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/7894869615591/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build timestamp="7973049049417" >
+    <build timestamp="1170444258753" >
         <artifact
             location="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
