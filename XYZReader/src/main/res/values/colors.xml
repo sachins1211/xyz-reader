@@ -17,8 +17,9 @@
 
 <resources>
     <color name="photo_placeholder">#ccc</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgray">#000000</color>
     <color name="primary_indigo_800">#283593</color>
     <color name="primary_indigo_900">#1A237E</color>
     <color name="accent">#303F9F</color>
+    <color name="material_grey">#757575</color>
 </resources>

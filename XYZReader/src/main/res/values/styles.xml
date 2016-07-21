@@ -24,4 +24,12 @@
         <item name="android:colorAccent">@color/accent</item>
     </style>
 
+
+    <style name="Theme.Custom" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:colorPrimary">@color/primary_indigo_800</item>
+        <item name="android:colorPrimaryDark">@android:color/transparent</item>
+        <item name="android:colorAccent">@color/accent</item>
+    </style>
+
 </resources>
