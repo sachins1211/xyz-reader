@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4a7e0e79f2982f2bef5689c8ca01b698781cd922">
-        <dex dex="/home/sachin/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6366c3eded3fee150fbb0cbb2476b3e2c8966c2/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />
